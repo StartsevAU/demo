@@ -1,5 +1,3 @@
-Zenit
-Lokomotiv
-Spartak
-Torpedo
-Dinamo
+Зенит 
+Спартак
+Локомотив
